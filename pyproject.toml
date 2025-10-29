@@ -4,7 +4,7 @@ version = "0.9.8"
 readme = "README.md"
 requires-python = ">=3.13.2"
 dependencies = [
-    "myPyllant==0.9.8",
+    "myPyllant @ git+https://github.com/musella/myPyllant.git@musella-patch-1",
     "requests>=2.32.0",
 ]
 
