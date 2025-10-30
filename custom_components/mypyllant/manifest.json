@@ -13,7 +13,7 @@
     "myPyllant"
   ],
   "requirements": [
-    "myPyllant==0.9.8"
+    "myPyllant @ git+https://github.com/musella/myPyllant.git@musella-patch-1"
   ],
   "version": "v0.9.8"
 }
